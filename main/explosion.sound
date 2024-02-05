@@ -1,4 +1,7 @@
-sound: ""
+sound: "/assets/mixkit-arcade-video-game-explosion-2810.wav"
 looping: 0
 group: "master"
 gain: 1.0
+pan: 0.0
+speed: 1.0
+loopcount: 0

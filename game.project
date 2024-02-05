@@ -14,5 +14,8 @@ fullscreen = 0
 input_method = HiddenInputField
 
 [project]
-title = MySpaceGame
+title = Stellar Capture
+
+[sound]
+gain = 1.0
 
